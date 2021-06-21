@@ -8,7 +8,7 @@
 	
 	- Remover o arquivo README.md
 	
-	- Na pasta public, remover tudo menos o index.html
+	- Na pasta public, remover tudo menos o arquivo index.html
 	
 	- Na pasta src, deixar apenas os arquivos: App.tsx, index.tsx e react-app-env.d.ts
 	
